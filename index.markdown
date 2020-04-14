@@ -5,7 +5,7 @@
 layout: default
 title: Jekyll Calendar
 ---
-
+<a href="webcal:{{ site.url | replace: 'http:', '' | replace: 'https:', '' }}{{site.baseurl}}/calendar.ics">Calendar file</a>
 {% include calendar.html %}
 {% include calendar_categories.html %}
 
