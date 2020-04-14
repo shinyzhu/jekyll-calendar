@@ -9,7 +9,7 @@ title: Jekyll Calendar
 {% include calendar.html %}
 {% include calendar_categories.html %}
 
-<script src="./js/calendarbase.esm.js"></script>
-<script src="./js/calendar-entries.js"></script>
-<script defer src="./js/calendar-shell.js"></script>
-<script defer src="./js/calendar-init.js"></script>
+<script src="{{site.baseurl}}/js/calendarbase.esm.js"></script>
+<script src="{{site.baseurl}}/js/calendar-entries.js"></script>
+<script defer src="{{site.baseurl}}/js/calendar-shell.js"></script>
+<script defer src="{{site.baseurl}}/js/calendar-init.js"></script>
