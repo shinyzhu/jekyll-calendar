@@ -1,4 +1,5 @@
 # Jekyll Calendar
+__For a live example, head [here](https://abzicht.github.io/jekyll-calendar/)__
 
 HTML and JavaScript calendar for Jekyll based calendar entries.
 
