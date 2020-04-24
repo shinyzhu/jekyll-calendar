@@ -198,6 +198,13 @@ var CalendarShell = function () {
 			detail_headline_elem.appendChild(detail_headline_text_elem);
 			detail_elem.appendChild(detail_headline_elem);
 
+			if (ye > 1){
+				let detail_year_elem = document.createElement("h3");
+				let detail_year_text_elem = document.createTextNode("("+new String(ye)+")");
+				detail_year_elem.appendChild(detail_year_text_elem);
+				detail_elem.appendChild(detail_year_elem);
+			}
+
 			let detail_desc_elem = document.createElement("p");
 			detail_desc_elem.innerHTML = entry.description;
 			detail_elem.appendChild(detail_desc_elem);
