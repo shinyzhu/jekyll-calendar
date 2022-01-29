@@ -57,3 +57,10 @@ to the bottom of the file you included the calendar at.
 
 * [JS Calendar library](https://github.com/WesSouza/calendar-base)
 * [Original HTML & CSS styling](https://codepen.io/knyttneve/pen/QVqyNg)
+
+
+---
+
+```bash
+docker run --rm -it -v $PWD:/srv/jekyll -p 4000:4000 jekyll/jekyll jekyll serve
+```

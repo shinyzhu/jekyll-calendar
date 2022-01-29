@@ -1,0 +1,9 @@
+name: "劳动节后工作日"
+description: "Detail goes here."
+url: ""
+location: ""
+category: "workday"
+singular: false
+date: "2022-05-07"
+date_start: "2022-05-07"
+date_end: "2022-05-07"

@@ -1,0 +1,9 @@
+name: "劳动节前工作日"
+description: "Detail goes here."
+url: ""
+location: ""
+category: "workday"
+singular: false
+date: "2022-04-24"
+date_start: "2022-04-24"
+date_end: "2022-04-24"

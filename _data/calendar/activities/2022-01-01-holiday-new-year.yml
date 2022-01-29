@@ -1,0 +1,9 @@
+name: "元旦节"
+description: ""
+url: ""
+location: ""
+category: "holiday"
+singular: false
+date: "2022-01-01"
+date_start: "2022-01-01"
+date_end: "2022-01-03"

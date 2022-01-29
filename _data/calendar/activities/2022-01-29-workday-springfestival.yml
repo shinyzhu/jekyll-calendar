@@ -1,0 +1,9 @@
+name: "春节前工作日"
+description: "Detail goes here."
+url: ""
+location: ""
+category: "workday"
+singular: false
+date: "2022-01-29"
+date_start: "2022-01-29"
+date_end: "2022-01-30"

@@ -1,9 +1,9 @@
-- id: birthday
-  name: Birthday
-  color: "#0000ee"
+- id: holiday
+  name: Public Holiday
+  color: "#41B0F6"
+- id: workday
+  name: Special workday
+  color: "#41B0F6"
 - id: event
   name: Event
-  color: "#00ee00"
-- id: election
-  name: Election
-  color: "#ee00ee"
+  color: "#004D81"
